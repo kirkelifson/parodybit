@@ -1,0 +1,27 @@
+---
+layout: post
+title: "The NSA, 1999"
+date: 2013-07-18 10:59
+comments: true
+categories: privacy nsa prism
+---
+
+Today I began reading this month's issue of Bruce Schneier's "Crypto-gram" newsletter after it had sat in my inbox for a number of days. It's well known that Bruce Schneier is a firm advocate for privacy as well as the analysis of anti-terrorism procedures following 9/11. It didn't surprise me when looking through the titles of each section for this particular issue to a large amount devoted to the NSA and Edward Snowden given the events that transpired earlier last month regarding the confirmation of voluntary wiretapping of the American population known simply as the program PRISM.
+
+However, a quote that he included from then NSA Director Michael Hayden dating from 1999 truly shocked me.
+
+{% blockquote General Michael Hayden, 1999 %}
+I'm a kid from Pittsburgh with two sons and a daughter who are closet libertarians. I am not interested in doing anything that threatens the American people, and threatens the future of this agency. I can't emphasize enough to you how careful we are. We have to be so careful -- to make sure that America is never distrustful of the power and security we can provide.
+{% endblockquote %}
+
+Whether or not this statement is 100% factual, I had still found it incredible especially compared to the backfire from the NSA we've been hearing over the past month. Rather than circling around the dissent and arguing that the spying is justified by national security needs, a standard procedure 9/11 invocation, Hayden is firmly denying even the need for any of the spying to occur or be discussed in the first place.
+
+A tweet from Paul Graham shortly after the Snowden leaks surfaced echoes simply what a large amount of people in the security industry imagined of the NSA regardless of their public speeches:
+
+{% tweet https://twitter.com/paulg/statuses/342802612892102657 %}
+
+Whether or not this program is actually assisting the military in catching the Bad Guys, we as citizens of the United States need to be deeply concerned about government overreach in the digital realm. I have noticed many stating that 'if we are doing nothing illegal then we have nothing to worry about.' I'm sorry, but this is unequivocally false. We have inalienable rights in this country defined by the Fourth Amendment that protects us from unreasonable search and seizure of our personal belongings. Data sent between citizens is certainly personal and should be regarded as such.
+
+Allowing the government easy access to our data and neglecting the rights that we have been granted since the inception of this country is inexcusable and should not be thrown into the same bucket as national security measures. This does not make us more secure. This weakens national as well as global trust and will destroy us faster than any preconceived human enemy could ever imagine inflicting upon us in their lifetime.
+
+PRISM simply strengthens the trend that we have been witnessing over the past two years with the introduction of legislations such as CISPA and SOPA. Although the FISA court is infamously private, these laws have been attempted to be passed under the public's eye and signifies the level of distrust between the government and the internet as a whole. Congressmen and military generals alike view the internet as the wild west and an entire world that is asking for regulation and censorship. It's our duty to make sure that doesn't happen under any circumstance. The internet is an incredible tool and we have yet to fully understand its true potential. Censoring public opinion and limiting the power of the greatest tool ever imagined by mankind is not a path that leads to global unification but rather government and military control of a uneducated worldwide civilization.
