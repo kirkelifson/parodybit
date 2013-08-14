@@ -27,8 +27,16 @@ email: kirk@parodybit.net
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
+<<<<<<< HEAD
 root: /blog
 permalink: /:year/:month/:day/:title/
+||||||| merged common ancestors
+root: /
+permalink: /blog/:year/:month/:day/:title/
+=======
+root: /blog
+permalink: /blog/:year/:month/:day/:title/
+>>>>>>> 1939464942b3bc800918d11b8edf371c2465e99e
 source: source
 destination: public/blog
 plugins: plugins
@@ -52,6 +60,7 @@ titlecase: false       # Converts page and post titles to titlecase
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
 default_asides: [asides/recent_posts.html, asides/github.html]
+
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
 # blog_index_asides:
