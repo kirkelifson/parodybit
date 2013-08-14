@@ -1,0 +1,32 @@
+---
+layout: post
+title: "SpaceX CRS-2"
+date: 2013-03-08 23:50
+comments: true
+categories: spacex
+---
+Attending rocket launches is high on my list of favorite activities, as well as visiting Kennedy Space Center and closely following humanity's aspiration for the stars.
+I can piece together faint memories of my family walking outside to look towards the eastward skies to spot the space shuttle launches, racing towards the International
+Space Station at breakneck speeds. I hadn't yet realized what exactly I was looking at in terms of human achievement in that early point in my life, but I was intrigued by
+the notion that the bright-red streak flying above the tree-line contained human beings, just like myself, but perhaps a tad more aged. I wasn't yet aware of the short, but
+significant, blip of human history that worked so hard at achieving such a launch during the Apollo era, nor what it signified by those humans hurdling through the atmosphere
+above our heads only to reach the ISS and not moon.
+
+In only a small period of time of what felt like days, I was almost an adult and standing atop a newly constructed bridge in Titusville, Florida on an overcast, but warm,
+summer afternoon to witness what would be the last of those strange, but awe-inspiring rocket launches that I had watched all those years previous. The final flight of
+space shuttle Atlantis on launch STS-135 on July 8th, 2011, would become the most memorable of the launches to date, and has remained ingrained deep within my mind over the past
+two years.
+
+In that time-span of two years I will have created a new mind-set for myself in which I literally aim to shoot for the stars by invoking a deep passion to eventually travel to
+another planet within my life-time, or at least work towards getting humanity to that position. Watching two SpaceX missions to the International Space Station, both from my bedroom
+hundreds of miles away, as well as in-person on the NASA Causeway one October evening, I have also developed a burning desire to start my career in the offices of SpaceX in
+Hawthorne, California, alongside other visionaries that aim to create a new future for humanity in the same manner that I wish to complete.
+
+I spent months waiting for the launch day to arrive, and my eagerness quickly woke me up at 5AM from my dorm in Orlando to rush over to Kennedy Space Center. In another five hours I
+would be watching the consolidation of my dreams and aspirations launching only a few miles in front of me for the third time in a row.
+
+{% img http://i.imgur.com/MwADnKO.png 767 409 'CRS-2' %}
+
+{% blockquote Carl Sagan, Cosmos %}
+The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars.
+{% endblockquote %}
