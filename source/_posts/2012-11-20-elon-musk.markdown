@@ -4,9 +4,9 @@ title: "Elon Musk"
 date: 2012-11-20 20:26
 comments: true
 categories:
-- elon musk
+- elon
 - spacex
-- tesla motors
+- tesla
 ---
 
 Elon Musk, a 41 year-old Pretoria, South Africa native, helps push mankind forward through the 21st century day by day. Growing up reading countless science fiction novels later came full circle when he founded Space Explorations Technology Corporation, or known by many as SpaceX. Even this monumental private rocket business was envisioned after the founding and cofounding of companies such as Paypal, and Tesla Motors, both of which became (and are becoming) highly successful businesses.

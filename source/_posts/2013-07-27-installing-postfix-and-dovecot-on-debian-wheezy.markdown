@@ -44,6 +44,7 @@ Grab these packages listed
 
 Postfix Virtual Domains
 
+```
     mysql> CREATE TABLE `virtual_domains` (
       `id` int(11) NOT NULL auto_increment,
       `name` varchar(50) NOT NULL,
