@@ -13,3 +13,4 @@ vendor
 node_modules
 .tweet-cache
 .preview_mode
+Rakefile
