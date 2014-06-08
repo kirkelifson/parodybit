@@ -18,7 +18,6 @@ Add this page to your very own essentials folder.
 
 ---
 
-
 [Strike three for SpaceX's Falcon 1 rocket](http://www.nbcnews.com/id/25990806/ns/technology_and_science-space/t/strike-three-spacexs-falcon-rocket/#.Uf5r65L0ByJ)
 
 [What is it like to work with Elon Musk?](https://www.quora.com/What-is-it-like-to-work-with-Elon-Musk/answer/Dolly-Singh-8)
@@ -184,3 +183,15 @@ Add this page to your very own essentials folder.
 [Dockery and Son by Philip Larkin](http://www.poetryfoundation.org/poem/178052)
 
 [Yosemite HD II](http://vimeo.com/87701971)
+
+[Learn To Build](http://benton.io/tech/2014/03/28/learn-to-build.html)
+
+[Combining Physics and Computer Science](http://www.eecis.udel.edu/~breech/combining-phys-cs.html)
+
+[Frequently Asked Questions in Cosmology](http://www.astro.ucla.edu/~wright/cosmology_faq.html)
+
+[It’s Adventure Time](http://theholenearthecenteroftheworld.com/)
+
+[E.W. Dijkstra Archive: On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
+
+[The emperor’s new clothes were built with Node.js | Notes (beta)](http://notes.ericjiang.com/posts/751)
