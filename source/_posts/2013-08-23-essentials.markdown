@@ -6,7 +6,7 @@ comments: true
 categories: links
 ---
 
-*last updated: 03/23/14*
+*last updated: 06/07/14*
 
 A few months ago I initiated a plan to catalog the links that I find the most important; articles, essays, videos, and other various forms of 'must-see' information from around the web that I would even have my kids read. I consistently find myself referring back to the bookmarks I've created in the innocuous folder in Chrome dubbed 'essentials' since its inception. Because of this, I feel that I should make the contents of this folder public as I believe it may be very helpful to other people.
 
