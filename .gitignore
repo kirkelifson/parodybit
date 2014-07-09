@@ -14,3 +14,4 @@ node_modules
 .tweet-cache
 .preview_mode
 Rakefile
+Gemfile.lock
