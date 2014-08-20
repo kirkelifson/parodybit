@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://parodybit.net
-home_url: http://parodybit.net
+url: https://parodybit.net
+home_url: https://parodybit.net
 title: parody bit
 subtitle: stream of consciousness
 author: Kirk Elifson
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")

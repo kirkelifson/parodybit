@@ -25,7 +25,7 @@ Hawthorne, California, alongside other visionaries that aim to create a new futu
 I spent months waiting for the launch day to arrive, and my eagerness quickly woke me up at 5AM from my dorm in Orlando to rush over to Kennedy Space Center. In another five hours I
 would be watching the consolidation of my dreams and aspirations launching only a few miles in front of me for the third time in a row.
 
-{% img http://i.imgur.com/MwADnKO.png 767 409 'CRS-2' %}
+{% img https://i.imgur.com/MwADnKO.png 767 409 'CRS-2' %}
 
 {% blockquote Carl Sagan, Cosmos %}
 The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars.
