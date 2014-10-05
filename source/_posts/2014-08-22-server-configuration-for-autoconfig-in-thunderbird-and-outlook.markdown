@@ -3,7 +3,7 @@ layout: post
 title: "Server configuration for autoconfig in Thunderbird and Outlook"
 date: 2014-08-22 21:49:25 -0400
 comments: true
-categories: servers
+categories: server
 ---
 
 When I first looked at how to do this it appeared to be an enormous mess. The sight of XML made me want to vomit, and the vague concept of adding a subdomain that points to a specific web directory containing said XML made me want to vomit once more. But trust me, it's all simple and is rather intuitive! (Dear Mozilla and Microsoft, XML still needs to go.)

@@ -3,7 +3,7 @@ layout: post
 title: "Paywall evasion"
 date: 2014-03-20 22:43:56 -0400
 comments: true
-categories: 
+categories: tips
 ---
 
 It's difficult these days not to encounter paywalls on news sites; a frequent irritant to me. An attempt to view a small article discdiscussing a  fascinating new scientific discovery introduces me to a slowly fading, scrolling, sliding, or exploding window frame telling me that I _must_ register on their site (or even donate money!) in order to view what exciting thing humans have created today. Nevermind the fact that I've primarily encountered paywalls on positive articles, while those that fuel hatred, bigotry, and intellectual malaise are left open. However, my opinion regarding the present state of the news media in America is for another post.

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Debian sudo secure_path"
+title: "Debian sudo secure\_path"
 date: 2014-04-05 22:15:54 -0400
 comments: true
-categories: 
+categories: server
 ---
 
-Debian has particular issues that irritate the hell out of me yet I hesitate to take even reasonable amounts of time to solve such problems, illogically. Tonight the feature/bug in question was a minor part of sudo compiled by default in Debian. I took learning Python/Flask upon myself suddenly because I felt I hadn't been programming enough as I should over the past few years. Misunderstandings about virtualenv, pip, and easy_install aside I was asked in a guide to execute `sudo pip install python-virtualenv`, throwing me this error in return:
+Debian has particular issues that irritate the hell out of me yet I hesitate to take even reasonable amounts of time to solve such problems, illogically. Tonight the feature/bug in question was a minor part of sudo compiled by default in Debian. I took learning Python/Flask upon myself suddenly because I felt I hadn't been programming enough as I should over the past few years. Misunderstandings about virtualenv, pip, and easy\_install aside I was asked in a guide to execute `sudo pip install python-virtualenv`, throwing me this error in return:
 
 ```
 $ sudo pip install python-virtualenv

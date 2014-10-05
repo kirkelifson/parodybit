@@ -3,7 +3,7 @@ layout: post
 title: "Epictetus' Enchiridion (mathematical!)"
 date: 2014-03-19 23:28:03 -0400
 comments: true
-categories: 
+categories: reading
 ---
 
 My favorite episode of Pendleton Ward's 'Adventure Time' is 'The Enchiridion!' (S01E05). Despite being a book "meant only for heroes whose hearts are righteous," anyone can pick up the real-life version of the book online at Amazon for the large sum of $3. Literally 'The Manual,' it is a short collection of Stoic writings attributed to a Greek man named Epictetus from the 2nd century CE.
