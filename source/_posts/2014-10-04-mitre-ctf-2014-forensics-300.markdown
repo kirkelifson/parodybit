@@ -14,7 +14,7 @@ Contents of /home/georgesr/.bash\_history:
 ```
 cd Documents/
 zip -Pbluths contract-documents.zip contract-documents.txt
-mcrypt contact-documents.zip
+mcrypt contract-documents.zip
 rm contract-documents.zip contract-documents.txt
 ```
 
