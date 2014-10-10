@@ -10,7 +10,7 @@ In this challenge we're given a packet capture and asked the simple question: 'w
 
 The challenge itself mentioned sftp the direct alternative to which is ftp. By looking at the data we see that there is indeed FTP traffic that has been captured. 
 
-{% img http://i.imgur.com/DPLyA6R.png FTP Data %}
+{% img https://i.imgur.com/DPLyA6R.png FTP Data %}
 
 Following the TCP stream of the FTP traffic we can see through the logged data that the user opens a few directories then requests the file '/files/zip.zip'. That sounds promising.
 
@@ -20,7 +20,7 @@ There are a few different TCP streams to look through (stream indices are displa
 
 The next stream contains quite a few more packets and after following the stream we are presented with the stream content window. I immediately spotted the text 'flag.png', as well as the 'PK' header (we are looking for an archive) so I knew this would be worth looking further into.
 
-{% img http://i.imgur.com/wSvHN8T.png FTP-DATA stream %}
+{% img https://i.imgur.com/wSvHN8T.png FTP-DATA stream %}
 
 After clicking 'Save As', and saving the TCP stream to 'zip.zip', I `file` it to verify its type.
 
@@ -38,7 +38,7 @@ Archive:  zip.zip
 $ open flag.png
 ```
 
-{% img http://i.imgur.com/9jXNXP9.png Flag! %}
+{% img https://i.imgur.com/9jXNXP9.png Flag! %}
 
 Wireshark trickery:
 

@@ -16,7 +16,7 @@ By random chance I came across telnet data. Although the topic of the challenge 
 
 Following the stream immediately yields the flag (it's only 100 points for a reason).
 
-{% img http://i.imgur.com/d31htbR.png Flag! %}
+{% img https://i.imgur.com/d31htbR.png Flag! %}
 
 Useful Wireshark features:
 
