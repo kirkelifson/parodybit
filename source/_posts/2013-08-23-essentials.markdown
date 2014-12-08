@@ -6,7 +6,7 @@ comments: true
 categories: links reading
 ---
 
-*last updated: 06/07/14*
+*last updated: 12/07/14*
 
 A few months ago I initiated a plan to catalog the links that I find the most important; articles, essays, videos, and other various forms of 'must-see' information from around the web that I would even have my kids read. I consistently find myself referring back to the bookmarks I've created in the innocuous folder in Chrome dubbed 'essentials' since its inception. Because of this, I feel that I should make the contents of this folder public as I believe it may be very helpful to other people.
 
@@ -22,8 +22,6 @@ Add this page to your very own essentials folder.
 
 [What is it like to work with Elon Musk?](https://www.quora.com/What-is-it-like-to-work-with-Elon-Musk/answer/Dolly-Singh-8)
 
-[Elon Musk's Secret Weapon: A Beginner's Guide to First Principles](http://blog.microlancer.com/elon-musks-greatest-weapon-laymans-guide-first-principles/)
-
 [Elon Musk's Hyperloop - Why He Dreams So Big](http://www.forbes.com/sites/hannahelliott/2013/08/13/elon-musks-hyperloop-why-he-dreams-so-big/)
 
 [The shared genius of Elon Musk and Steve Jobs](http://money.cnn.com/2013/11/21/leadership/steve-jobs-elon-musk.pr.fortune/index.html)
@@ -34,9 +32,9 @@ Add this page to your very own essentials folder.
 
 [Tesla Motors' Full Analysis 2.0](http://seekingalpha.com/article/1532842-tesla-motors-full-analysis-2-0?source=email_rt_article_title)
 
-[How has Rene Girard shaped Peter Thiel's worldview, investing strategy, and religious faith?](http://www.quora.com/How-has-Rene-Girard-shaped-Peter-Thiels-worldview-investing-strategy-and-religious-faith)
+[Rene Girard's Impact on Peter Thiel](http://www.quora.com/How-has-Rene-Girard-shaped-Peter-Thiels-worldview-investing-strategy-and-religious-faith)
 
-[What strong beliefs on culture for entrepreneurialism did Peter, Max, and David have at PayPal?](http://www.quora.com/PayPal/What-strong-beliefs-on-culture-for-entrepreneurialism-did-Peter-Max-David-have-at-PayPal/answer/Keith-Rabois)
+[Peter Thiel's and Max Levchin's entrepreneurial views at Paypal](http://www.quora.com/PayPal/What-strong-beliefs-on-culture-for-entrepreneurialism-did-Peter-Max-David-have-at-PayPal/answer/Keith-Rabois)
 
 [Sam Harris - It Is Always Now](http://www.youtube.com/watch?v=T3JzcCviNDk)
 
@@ -192,7 +190,62 @@ Add this page to your very own essentials folder.
 
 [It’s Adventure Time](http://theholenearthecenteroftheworld.com/)
 
-[E.W. Dijkstra Archive: On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
+[Dijkstra: On the Cruelty of Really Teaching Computer Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
 
-[The emperor’s new clothes were built with Node.js | Notes (beta)](http://notes.ericjiang.com/posts/751)
+[The emperor’s new clothes were built with Node.js](http://notes.ericjiang.com/posts/751)
 
+[Beef Up Your Skills with Code Exercise](http://flippinawesome.org/2014/05/12/beef-up-your-skills-with-code-exercise/?utm_source=statuscode&utm_medium=email)
+
+[I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
+
+[Administrative Debris](http://tomayko.com/writings/administrative-debris)
+
+[Andrew Carnegie - Gospel of Wealth](http://www.swarthmore.edu/SocSci/rbannis1/AIH19th/Carnegie.html)
+
+[What Makes Valve Tick - Gabe Newell](http://www.washingtonpost.com/blogs/the-switch/wp/2014/01/03/gabe-newell-on-what-makes-valve-tick/)
+
+[37SIGNALS VALUATION TOPS $100 BILLION AFTER BOLD VC INVESTMENT](http://signalvnoise.com/posts/1941-press-release-37signals-valuation-tops-100-billion-after-bold-vc-investment)
+
+[Argumentum Ad Monsantum](http://blogs.scientificamerican.com/but-not-simpler/2013/10/16/argumentum-ad-monsantum-bill-maher-and-the-lure-of-a-liberal-logical-fallacy/)
+
+[Practical Handicraft: Ariele Alasko Kinfolk](http://www.kinfolk.com/practical-handicraft/)
+
+[This Week’s Finds (Week 301)](http://johncarlosbaez.wordpress.com/2010/08/27/this-weeks-finds-week-301/)
+
+[Tips for Effective Study](http://www.cod.edu/people/faculty/fancher/study.htm)
+
+[Peter Thiel's Contrarian Strategy](http://fortune.com/2014/09/04/peter-thiels-contrarian-strategy/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+
+[How to teach a young introvert](http://ideas.ted.com/2014/09/02/how-to-teach-a-young-introvert)
+
+[Rocket Man](http://magazine.lmu.edu/archive/2011/rocket-man)
+
+[The Daily Show - A Lesson in Institutional Dysfunction - Cable News](http://thedailyshow.cc.com/news-team/steve-carell/85lwxj/on-topic---a-lesson-in-institutional-dysfunction---cable-news)
+
+[Combining Physics and Computer Science](https://www.eecis.udel.edu/~breech/combining-phys-cs.html)
+
+[How to Be Genius](https://www.scribd.com/doc/53209242/How-to-Be-Genius)
+
+[Do It Now by Steve Pavlina](http://www.stevepavlina.com/articles/do-it-now.htm)
+
+[What It Took for SpaceX to Become a Serious Space Company](http://www.theatlantic.com/business/archive/2014/10/what-it-took-for-spacex-to-become-a-serious-space-company/381724/?single_page=true)
+
+[Procrastination](http://sas.calpoly.edu/asc/ssl/procrastination.html)
+
+[Tesla: The Origin Story - Business Insider](http://www.businessinsider.com/tesla-the-origin-story-2014-10)
+
+[Landing on a Comet, 317 Million Miles From Home](http://www.nytimes.com/interactive/2014/11/12/science/space/rosetta-philae-comet-landing.html?_r=1)
+
+[2015 Tesla Model S P85D First Test](http://www.motortrend.com/roadtests/alternative/1411_2015_tesla_model_s_p85d_first_test/viewall.html)
+
+[The Programmer’s Price](http://www.newyorker.com/magazine/2014/11/24/programmers-price)
+
+[Playing Games to Leave Games](http://www.ribbonfarm.com/2014/10/21/playing-games-to-leave-games/)
+
+[Deep Work](http://calnewport.com/blog/2012/11/21/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
+
+[On the Limits of Self-Improvement, Part I | Vanity Fair](http://www.vanityfair.com/culture/features/2007/10/hitchens200710)
+
+[On the Limits of Self-Improvement, Part II | Vanity Fair](http://www.vanityfair.com/culture/features/2007/12/hitchens200712)
+
+[On the Limits of Self-Improvement, Part III | Vanity Fair](http://www.vanityfair.com/culture/features/2008/09/hitchens200809)
