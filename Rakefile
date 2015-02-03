@@ -1,3 +1,5 @@
+require "yui/compressor"
+require "html_compressor"
 require "rubygems"
 require "bundler/setup"
 require "stringex"
@@ -56,8 +58,14 @@ desc "Generate jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "## Generating Site with Jekyll"
+
   system "compass compile --css-dir #{source_dir}/stylesheets"
   system "jekyll build"
+
+  # Apply minification tasks
+  Rake::Task[:minify_css].execute
+  Rake::Task[:minify_js].execute
+  Rake::Task[:minify_html].execute
 end
 
 desc "Watch the site and regenerate when it changes"
@@ -403,4 +411,43 @@ desc "list tasks"
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
+end
+
+desc "Minify CSS"
+task :minify_css do
+  puts "## Minifying CSS"
+  compressor = YUI::CssCompressor.new
+  Dir.glob("#{public_dir}/**/*.css").each do |name|
+    puts "Minifying #{name}"
+    input = File.read(name)
+    output = File.open("#{name}", "w")
+    output << compressor.compress(input)
+    output.close
+  end
+end
+
+desc "Minify JS"
+task :minify_js do
+  puts "## Minifying JS"
+  compressor = YUI::JavaScriptCompressor.new
+  Dir.glob("#{public_dir}/**/*.js").each do |name|
+    puts "Minifying #{name}"
+    input = File.read(name)
+    output = File.open("#{name}", "w")
+    output << compressor.compress(input)
+    output.close
+  end
+end
+
+desc "Minify HTML"
+task :minify_html do
+  puts "## Minifying HTML"
+  compressor = HtmlCompressor::HtmlCompressor.new
+  Dir.glob("#{public_dir}/**/*.html").each do |name|
+    puts "Minifying #{name}"
+    input = File.read(name)
+    output = File.open("#{name}", "w")
+    output << compressor.compress(input)
+    output.close
+  end
 end
