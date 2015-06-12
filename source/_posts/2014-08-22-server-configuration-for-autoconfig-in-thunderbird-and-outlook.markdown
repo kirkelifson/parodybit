@@ -28,7 +28,8 @@ server {
 }
 ```
 
-3. Add the following template to `config-v1.1.xml`:
+3. `$ mkdir -p /var/www/autoconfig/mail`
+4. `$ vim mail/config-v1.1.xml`
 
 ```
 <clientConfig version="1.1">
